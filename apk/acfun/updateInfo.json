@@ -1,10 +1,10 @@
 {
-    "code": 1,
-    "name": "1.0",
+    "versionCode": 1,
+    "versionName": "1.0",
     "filename": "AcFunLive-release-1.0.apk",
-    "url": "https://raw.githubusercontent.com/SirLYC/EveryDownload/master/update/AcFunLive-release-1.0.apk",
-    "time": 1625045118145,
-    "des": "",
-    "size": 8146885,
-    "md5": "def56313eaa82d555fc2ff03540d4fe8"
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/zyl315/CDN/apk/acfun/AcFunLive-release-1.0.apk",
+    "time": 1625053896716,
+    "description": "",
+    "size": 8146884,
+    "md5": "b800560c2f51f07c4fc314b31d31e774"
 }
