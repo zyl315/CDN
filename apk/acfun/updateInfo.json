@@ -1,10 +1,10 @@
 {
-    "versionCode": 3,
-    "versionName": "1.1.1",
-    "filename": "AcFunLive-release-1.1.1.apk",
-    "downloadUrl": "https://cdn.jsdelivr.net/gh/zyl315/CDN/apk/acfun/AcFunLive-release-1.1.1.apk",
-    "time": 1625749265569,
-    "description": "1.\u5168\u5206\u533a\u76f4\u64ad\u5c55\u793a\n2.\u8de8\u5206\u533a\u591a\u9009\n3.\u4e2a\u4eba\u4e2d\u5fc3\u9875\u9762\u66f4\u6539",
-    "size": 8215885,
-    "md5": "08b34609b652703fecaee59944225acb"
+    "versionCode": 4,
+    "versionName": "1.2.0",
+    "filename": "AcFunLive-release-1.2.0.apk",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/zyl315/CDN/apk/acfun/AcFunLive-release-1.2.0.apk",
+    "time": 1654409064613,
+    "description": "1.\u4e2a\u4eba\u4e2d\u5fc3\u9875\u9762\u66f4\u6539\n2.\u8bbe\u7f6e\u5b8c\u5584\n3.bug\u4fee\u6539",
+    "size": 9749331,
+    "md5": "de4968a02dedafeb4ab682eb3e394e9d"
 }
